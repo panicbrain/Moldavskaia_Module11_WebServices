@@ -19,7 +19,7 @@ public class Address {
         this.street = street;
     }
 
-        public String getSuite() {
+    public String getSuite() {
         return suite;
     }
 
